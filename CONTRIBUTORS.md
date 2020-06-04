@@ -12,3 +12,8 @@
 - Place: India
 - GitHub: [Aranya Sen](https://github.com/senaranya)
 - Bio: Full stack web developer
+
+### Name: Gain John
+- Place: Nigeria
+- GitHub: [Gain John](https://github.com/dhaxor)
+- Bio: Full stack web developer
